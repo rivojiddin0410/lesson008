@@ -1,0 +1,16 @@
+.pro__container{
+    padding: 0 10%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.pro__card{
+    width: 320px;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+.pro__card img{
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
